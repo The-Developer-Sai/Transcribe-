@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <style>
+    /* Reset margins and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5; /* Light pastel gray background */
+    color: #333; /* Dark gray text for contrast */
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: #a8dadc; /* Pastel teal background */
+    color: #1d3557; /* Dark pastel blue text */
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+nav a {
+    color: #1d3557; /* Dark pastel blue text */
+    margin-left: 15px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    flex-grow: 1;
+    padding: 40px;
+    background-color: #f5f5f5; /* Light pastel gray background */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.welcome-box {
+    background-color: #ffffff; /* White background for the welcome box */
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+}
+
+h2 {
+    color: #1d3557; /* Dark pastel blue text */
+    margin-bottom: 20px;
+}
+
+p {
+    margin: 10px 0;
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin: 10px 0;
+}
+
+footer {
+    background-color: #a8dadc; /* Pastel teal background */
+    color: #333; /* Dark gray text */
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    margin-top: auto;
+}
+</style>
+</head>
+<body>
+    <header>
+        <h1>TranscribePro</h1>
+        <nav>
+            <a href="{{ url_for('video_transcribe') }}">Video Transcribe</a>
+            <a href="{{ url_for('audio_transcribe') }}">Audio Transcribe</a>
+        </nav>
+    </header>
+    <main>
+        <br>
+        <div class="welcome-box">
+            <h2>Welcome to TranscribePro</h2>
+           <p>Start transcribing today and experience the convenience and efficiency of TranscribePro!</p>
+        </div>
+    </main>
+    <footer>
+        <p>© Tiny Coders </p>
+    </footer>
+</body>
+</html>

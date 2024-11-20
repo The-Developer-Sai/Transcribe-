@@ -1,0 +1,4 @@
+Flask
+moviepy
+azure-cognitiveservices-speech
+ffmpeg-python

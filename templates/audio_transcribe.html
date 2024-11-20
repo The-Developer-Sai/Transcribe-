@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Transcription</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Audio Transcription</h1>
+        <nav>
+            <a href="{{ url_for('index') }}">Home</a>
+            <a href="{{ url_for('video_transcribe') }}">Video Transcribe</a>
+            <a href="{{ url_for('audio_transcribe') }}" class="active">Audio Transcribe</a>
+        </nav>
+    </header>
+    <main>
+        <div class="upload-box">
+            <form id="audio-transcription-form" method="POST" enctype="multipart/form-data">
+                <div>
+                    <label for="language">Choose Language:</label>
+                    <select name="language" id="language">
+                        <option value="en-US">English (US)</option>
+                        <option value="hi-IN">Hindi</option>
+                        <option value="fr-FR">French</option>
+                        <option value="es-ES">Spanish</option>
+                        <!-- Add more languages here -->
+                    </select>
+                </div>
+                <div>
+                    <label for="audio_file">Upload Audio File:</label>
+                    <input type="file" id="audio_file" name="audio_file" required>
+                    <button type="submit">Transcribe Audio</button>
+                </div>
+            </form>
+        </div>
+
+        <!-- Loading Indicator -->
+        <div class="loading-indicator" id="audio-loading-indicator" style="display: none;">
+            <div class="circle"></div>
+            <div class="circle"></div>
+            <div class="circle"></div>
+        </div>
+
+        <!-- Transcription Result Box -->
+        <div class="transcription-box" id="audio-transcription-result">
+            <div class="placeholder-box">
+                <p>Resultant transcription will be printed here!!!</p>
+            </div>
+            {% if transcription %}
+                <h2>Transcription Result</h2>
+                <pre>{{ transcription }}</pre>
+            {% elif error %}
+                <p style="color: red;">{{ error }}</p>
+            {% endif %}
+        </div>
+    </main>
+    <footer>
+        <p>© Tiny Coders </p>
+    </footer>
+
+    <!-- JavaScript to show loading circles -->
+    <script>
+        document.getElementById('audio-transcription-form').addEventListener('submit', function() {
+            document.getElementById('audio-loading-indicator').style.display = 'flex';
+        });
+    </script>
+</body>
+</html>

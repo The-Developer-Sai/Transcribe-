@@ -1,0 +1,284 @@
+[00:00:00 - 00:00:05] Hello friends, I'm going to start a course on algorithms.
+--------------------------------------------------
+[00:00:05 - 00:00:10] Algorithm as a subject. Algorithm as a common subject for.
+--------------------------------------------------
+[00:00:10 - 00:00:15] Computer science engineering students. Most of the universities offer this course.
+--------------------------------------------------
+[00:00:15 - 00:00:20] Part of syllabus and this is a very core subject and very important.
+--------------------------------------------------
+[00:00:20 - 00:00:25] Object and students face some difficulties in some of the topics in this.
+--------------------------------------------------
+[00:00:25 - 00:00:30] One, they could not understand them very clearly.
+--------------------------------------------------
+[00:00:30 - 00:00:35] Subject more and more simple so that you can easily understand and even you can.
+--------------------------------------------------
+[00:00:35 - 00:00:40] Practice that and also remember it easily the imports of.
+--------------------------------------------------
+[00:00:40 - 00:00:45] Subject is that apart from theoretical examination, it is also import.
+--------------------------------------------------
+[00:00:45 - 00:00:50] For competitive exams and even programming content.
+--------------------------------------------------
+[00:00:50 - 00:00:55] Most of them are designed from this subject only if any programming challenge is there.
+--------------------------------------------------
+[00:00:55 - 00:01:00] Mostly they pick up the questions from the structure, so this is one of the challenging subject.
+--------------------------------------------------
+[00:01:00 - 00:01:05] For the student, because they get a chance to solve different type of problems and they get the.
+--------------------------------------------------
+[00:01:05 - 00:01:10] Strategy or approach for solving the problem?
+--------------------------------------------------
+[00:01:10 - 00:01:15] Some students fail to understand it properly so they could not get the approach.
+--------------------------------------------------
+[00:01:15 - 00:01:20] For other strategy for solving the problems and they feel that they are lacking in.
+--------------------------------------------------
+[00:01:20 - 00:01:25] The logic development or strategic development of a program.
+--------------------------------------------------
+[00:01:25 - 00:01:30] So I'll be covering in depth each and everything right from the basic.
+--------------------------------------------------
+[00:01:30 - 00:01:35] To the depth.
+--------------------------------------------------
+[00:01:35 - 00:01:40] So any type of question from this one?
+--------------------------------------------------
+[00:01:40 - 00:01:45] Such that just you look at the question you can get the answer.
+--------------------------------------------------
+[00:01:45 - 00:01:50] That I guarantee you.
+--------------------------------------------------
+[00:01:50 - 00:01:55] The thing is, I'll cover those points which are useful for solving the questions.
+--------------------------------------------------
+[00:01:55 - 00:02:00] Some job interviews or even for any other exam.
+--------------------------------------------------
+[00:02:00 - 00:02:05] Exams like gait exam, the cushions offering from algorithms also which is also one of the.
+--------------------------------------------------
+[00:02:05 - 00:02:10] Key subject there so you will be able to answer any type of questions from there.
+--------------------------------------------------
+[00:02:10 - 00:02:15] You have to watch the lectures in the order I'll be giving the numbers.
+--------------------------------------------------
+[00:02:15 - 00:02:20] For each topic so that you follow that order. You follow the sequence because I may be breaking the.
+--------------------------------------------------
+[00:02:20 - 00:02:25] Major topic it goes small topics.
+--------------------------------------------------
+[00:02:25 - 00:02:30] Your feedback is very important for me because already I have made few prepared few videos.
+--------------------------------------------------
+[00:02:30 - 00:02:35] Using presentations and the other tools, but now I'm giving a lecture on.
+--------------------------------------------------
+[00:02:35 - 00:02:40] Whiteboard. So maybe I'm new for the video quality and audio quality.
+--------------------------------------------------
+[00:02:40 - 00:02:45] All these things so technically once I get set up so I need your feedback.
+--------------------------------------------------
+[00:02:45 - 00:02:50] Back so I can make my videos more and more better. So your feedback is important for.
+--------------------------------------------------
+[00:02:50 - 00:02:55] Me to know how the video quality and audio quality you are.
+--------------------------------------------------
+[00:02:55 - 00:03:00] Getting it on your devices because I have checked on different devices and I found that the results.
+--------------------------------------------------
+[00:03:00 - 00:03:05] Are different So what devices you are using? What I should improve voice or?
+--------------------------------------------------
+[00:03:05 - 00:03:10] What? So I need your feedback. Let us start with just introduction.
+--------------------------------------------------
+[00:03:10 - 00:03:15] What is an algorithm?
+--------------------------------------------------
+[00:03:15 - 00:03:20] Done. When it is written, who will write it? Let us get the answers for these.
+--------------------------------------------------
+[00:03:20 - 00:03:25] See algorithm as a definition. It's a common definition. Everybody knows that is a step.
+--------------------------------------------------
+[00:03:25 - 00:03:30] Procedure for solving a computational problem? Yes.
+--------------------------------------------------
+[00:03:30 - 00:03:35] It is a step by step procedure for solving a computational problem. Then what is a program?
+--------------------------------------------------
+[00:03:35 - 00:03:40] Program is also a step by step procedure for solving a problem.
+--------------------------------------------------
+[00:03:40 - 00:03:45] Then what is the difference between program and algorithm?
+--------------------------------------------------
+[00:03:45 - 00:03:50] Program an algorithm. I can make you understand the importance of algorithm, meaning of algorithm.
+--------------------------------------------------
+[00:03:50 - 00:03:55] Let us take it.
+--------------------------------------------------
+[00:03:55 - 00:04:00] No speech could be recognized
+--------------------------------------------------
+[00:04:00 - 00:04:05] No speech could be recognized
+--------------------------------------------------
+[00:04:05 - 00:04:10] Here's an algorithm, and here's a program.
+--------------------------------------------------
+[00:04:10 - 00:04:15] Let us see the first thing. First difference.
+--------------------------------------------------
+[00:04:15 - 00:04:20] If you know the software development lifecycle, means the phases of.
+--------------------------------------------------
+[00:04:20 - 00:04:25] Being a software project in the phases of development of software project.
+--------------------------------------------------
+[00:04:25 - 00:04:30] There are two important phases, design phase and the implementation phase.
+--------------------------------------------------
+[00:04:30 - 00:04:35] If you are not aware of it, let me tell you whatever you want to manufacture or.
+--------------------------------------------------
+[00:04:35 - 00:04:40] Construct something by engineering procedures, then forces.
+--------------------------------------------------
+[00:04:40 - 00:04:45] One of the important step is designing. First you do designing.
+--------------------------------------------------
+[00:04:45 - 00:04:50] Make your design perfect and thorough so that you can understand what you are going to consider.
+--------------------------------------------------
+[00:04:50 - 00:04:55] What you are going to develop and when you are sure what you are going to develop, then you start to develop.
+--------------------------------------------------
+[00:04:55 - 00:05:00] You can't develop anything. You cannot construct anything on.
+--------------------------------------------------
+[00:05:00 - 00:05:05] Trial and error basis like you constructed something. Again, no nodes.
+--------------------------------------------------
+[00:05:05 - 00:05:10] Wrong. Destroy and again create a new one. So no. But it is easy.
+--------------------------------------------------
+[00:05:10 - 00:05:15] Software engineering Software engineer can write some program and change the mind.
+--------------------------------------------------
+[00:05:15 - 00:05:20] Delete the program and again start writing the program. So that's why we cannot get the.
+--------------------------------------------------
+[00:05:20 - 00:05:25] Feel that we have wasted amount so much amount of time in writing so you.
+--------------------------------------------------
+[00:05:25 - 00:05:30] Useless program. So the point is first you design and then you.
+--------------------------------------------------
+[00:05:30 - 00:05:35] You write the program, so at the design time what do you use so.
+--------------------------------------------------
+[00:05:35 - 00:05:40] You are not writing a program. Then what do you write? So that same program we write it in?
+--------------------------------------------------
+[00:05:40 - 00:05:45] Simple English like statements that are easy to understand without using proper.
+--------------------------------------------------
+[00:05:45 - 00:05:50] Attacks and we may not be writing on machine, that is on the computer. We may be writing on paper.
+--------------------------------------------------
+[00:05:50 - 00:05:55] Or even if you're using a machine also then you will not writing in.
+--------------------------------------------------
+[00:05:55 - 00:06:00] Some language you can. You will be writing an Ms. Word or Notepad like application.
+--------------------------------------------------
+[00:06:00 - 00:06:05] So just you are getting familiar how your program going to work.
+--------------------------------------------------
+[00:06:05 - 00:06:10] So algorithms are written and.
+--------------------------------------------------
+[00:06:10 - 00:06:15] Design time.
+--------------------------------------------------
+[00:06:15 - 00:06:20] And when the programs are written, they are written at.
+--------------------------------------------------
+[00:06:20 - 00:06:25] Implementation time.
+--------------------------------------------------
+[00:06:25 - 00:06:30] Design time and implementation time.
+--------------------------------------------------
+[00:06:30 - 00:06:35] So first you make a design what your procedure is going to do what your software.
+--------------------------------------------------
+[00:06:35 - 00:06:40] Is going to do come up with some design and that design you convert into a program.
+--------------------------------------------------
+[00:06:40 - 00:06:45] Then what do you call the person who do designing?
+--------------------------------------------------
+[00:06:45 - 00:06:50] Program. What does that? Yes, if programmer is capable of doing that, he can do it.
+--------------------------------------------------
+[00:06:50 - 00:06:55] Otherwise, the person who will do this one should have the domain.
+--------------------------------------------------
+[00:06:55 - 00:07:00] Knowledge the problems knowledge. Knowledge about the problem and its solution.
+--------------------------------------------------
+[00:07:00 - 00:07:05] He can give a solution the one who understand the problem and has the domain knowledge.
+--------------------------------------------------
+[00:07:05 - 00:07:10] Suppose you are developing a software or an algorithm or a program for account.
+--------------------------------------------------
+[00:07:10 - 00:07:15] That accountant can understand accounting better. Or if you're writing an.
+--------------------------------------------------
+[00:07:15 - 00:07:20] Application or developing application for hospital then doctors.
+--------------------------------------------------
+[00:07:20 - 00:07:25] Of the administrative staff, often hospital can understand the system better than a.
+--------------------------------------------------
+[00:07:25 - 00:07:30] Programmer, so mostly the one who is having a knowledge about the domain.
+--------------------------------------------------
+[00:07:30 - 00:07:35] For which the application is being developed, they can write down the algorithm. So the person who write.
+--------------------------------------------------
+[00:07:35 - 00:07:40] I should have.
+--------------------------------------------------
+[00:07:40 - 00:07:45] Domain knowledge.
+--------------------------------------------------
+[00:07:45 - 00:07:50] Who will write the program?
+--------------------------------------------------
+[00:07:50 - 00:07:55] Programmer.
+--------------------------------------------------
+[00:07:55 - 00:08:00] Have domain knowledge. They can also have domain knowledge that he is acting as a designer.
+--------------------------------------------------
+[00:08:00 - 00:08:05] And here he is acting as a programmer.
+--------------------------------------------------
+[00:08:05 - 00:08:10] What is the language used for writing algorithm? You can use any language.
+--------------------------------------------------
+[00:08:10 - 00:08:15] Any language. Any language E.
+--------------------------------------------------
+[00:08:15 - 00:08:20] English legs language or you can use some mathematical notations if you are writing.
+--------------------------------------------------
+[00:08:20 - 00:08:25] English like language, it will be like writing paras or summary but don't try.
+--------------------------------------------------
+[00:08:25 - 00:08:30] If you can, if you want, you can use mathematical notations. Also it's better if you use mathematical.
+--------------------------------------------------
+[00:08:30 - 00:08:35] Patients.
+--------------------------------------------------
+[00:08:35 - 00:08:40] Or some mathematical notations can be used as long as it is understandable 5 dose.
+--------------------------------------------------
+[00:08:40 - 00:08:45] People who are using it.
+--------------------------------------------------
+[00:08:45 - 00:08:50] And the programmer will be writing a program for it. So designer should understand and also.
+--------------------------------------------------
+[00:08:50 - 00:08:55] Programmer should understand that one, right? So the team of programmers who are.
+--------------------------------------------------
+[00:08:55 - 00:09:00] Working on that project should be able to understand it. Then this is written only.
+--------------------------------------------------
+[00:09:00 - 00:09:05] Using programming language.
+--------------------------------------------------
+[00:09:05 - 00:09:10] Plus Java, Python.
+--------------------------------------------------
+[00:09:10 - 00:09:15] Languages for developing a program.
+--------------------------------------------------
+[00:09:15 - 00:09:20] The next.
+--------------------------------------------------
+[00:09:20 - 00:09:25] Write an algorithm. It's going to be hardware and software.
+--------------------------------------------------
+[00:09:25 - 00:09:30] Operating system independent. It's not dependent on the hardware what machine you are.
+--------------------------------------------------
+[00:09:30 - 00:09:35] To use, what is the configuration of the machine and what is the operating system?
+--------------------------------------------------
+[00:09:35 - 00:09:40] Operating system or Windows operating system, we don't bother about it. But when you write.
+--------------------------------------------------
+[00:09:40 - 00:09:45] Program it is dependent on hardware and operating system.
+--------------------------------------------------
+[00:09:45 - 00:09:50] So when you develop a program, you have to select some hardware on which you are going to run.
+--------------------------------------------------
+[00:09:50 - 00:09:55] And also you have to select some operating system. You may be doing it for Linux.
+--------------------------------------------------
+[00:09:55 - 00:10:00] Or you may be doing it for Windows, so the method will be different and the environment.
+--------------------------------------------------
+[00:10:00 - 00:10:05] So this is important.
+--------------------------------------------------
+[00:10:05 - 00:10:10] After writing an algorithm, we analyze an.
+--------------------------------------------------
+[00:10:10 - 00:10:15] Means we will study the algorithm to find out are we achieving the.
+--------------------------------------------------
+[00:10:15 - 00:10:20] Results perfectly or not and our algorithm is efficient or not.
+--------------------------------------------------
+[00:10:20 - 00:10:25] In terms of time and space, we will see what does it mean analysis. So we will.
+--------------------------------------------------
+[00:10:25 - 00:10:30] Analyze and then.
+--------------------------------------------------
+[00:10:30 - 00:10:35] What do we do with the program so you don't have to study?
+--------------------------------------------------
+[00:10:35 - 00:10:40] Program already programmers there, just run it and check it. So we do.
+--------------------------------------------------
+[00:10:40 - 00:10:45] Testing.
+--------------------------------------------------
+[00:10:45 - 00:10:50] Of the programs.
+--------------------------------------------------
+[00:10:50 - 00:10:55] Between algorithm and program these differences.
+--------------------------------------------------
+[00:10:55 - 00:11:00] Help you understand what are algorithms.
+--------------------------------------------------
+[00:11:00 - 00:11:05] Now one more thing, I will tell you the syntax of the language that we use.
+--------------------------------------------------
+[00:11:05 - 00:11:10] Any language can be used, but who actually write algorithms and who?
+--------------------------------------------------
+[00:11:10 - 00:11:15] Use them and who write the programs or programmers who are coming from university.
+--------------------------------------------------
+[00:11:15 - 00:11:20] Graduates mostly university graduate knows at least C language.
+--------------------------------------------------
+[00:11:20 - 00:11:25] So nowadays mostly in the name of algorithm we write C language program only.
+--------------------------------------------------
+[00:11:25 - 00:11:30] So the benefit is that the advantage that everybody knows C language now.
+--------------------------------------------------
+[00:11:30 - 00:11:35] So instead of writing some other language to confuse.
+--------------------------------------------------
+[00:11:35 - 00:11:40] We can use C language only so that everybody can understand, so even at a school.
+--------------------------------------------------
+[00:11:40 - 00:11:45] Language is being taught so everybody is familiar with C language, so I may be.
+--------------------------------------------------
+[00:11:45 - 00:11:48] Choosing C language syntax for writing algorithms.
+--------------------------------------------------
